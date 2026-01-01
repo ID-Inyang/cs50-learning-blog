@@ -1,5 +1,5 @@
 import React from 'react'
-import DayOne from './pages/weekOne/Day1.jsx'
+import Jan1 from './pages/weekOne/Jan1.jsx' 
 import LandingPage from './pages/LandingPage.jsx'
 
 const App = () => {

@@ -1,7 +1,7 @@
 import React from 'react'
 import assets from "../../assets/assets.js"
 
-function DayOne() {
+function Jan1() {
     return (
         <main className="p-8 min-h-screen">
             <div>
@@ -30,4 +30,4 @@ function DayOne() {
     )
 }
 
-export default DayOne
+export default Jan1
