@@ -6,7 +6,7 @@ const App = () => {
   return (
     <div>
       <LandingPage />
-      <DayOne />
+      <Jan1 />
     </div>
   )
 }
