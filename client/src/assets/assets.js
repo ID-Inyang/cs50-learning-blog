@@ -11,7 +11,7 @@ import scratchSignUp from "./dayTwoAssets/scratchSignUp.jpeg"
 import scratchInterface from "./dayTwoAssets/scratchInterface.jpeg"
 
 // Day 3 - Jan 3 assets
-
+import theDanceoff from "./dayThreeAssets/theDanceoff.mp4"
 
 const assets = {
   img1: img1,
@@ -20,9 +20,13 @@ const assets = {
   img4: img4,
   img5: img5,
   myQuestion: myQuestion,
+
   // Day 2 assets   
   scratchSignUp: scratchSignUp,
-  scratchInterface: scratchInterface
+  scratchInterface: scratchInterface,
+
+  // Day 3 assets
+  theDanceoff: theDanceoff
 };
 
 export default assets;

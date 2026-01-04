@@ -5,7 +5,7 @@ function Jan1() {
     return (
         <main className="p-8 min-h-screen">
             <div>
-                <h1>Day 1: Introduction to Computer Science</h1>
+                <h2>Day 1: Introduction to Computer Science</h2>
                 <h6>January 1st 2026</h6>
                 <p>I started out the day by watching CS50x 2026 - Lecture 0 - Scratch on YouTube</p>
                 <img src={assets.img1} alt="" className='w-2xl'/>
