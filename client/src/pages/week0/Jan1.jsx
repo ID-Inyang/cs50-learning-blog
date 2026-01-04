@@ -34,6 +34,13 @@ function Jan1() {
                 <p>Overall, it was a great introduction to computer science and programming. I'm excited to learn more in the coming days!</p>
             </div>
             <div className="">
+                <p className="">During the lecture I saw something that kind of confused me, so I asked a question on X/ twitter in the CS50 community</p>
+                <figure>
+                    <img src={assets.myQuestion} className='w-2xl' alt="" />
+                    <figcaption>My question on X</figcaption>
+                </figure>
+            </div>
+            <div className="">
                 <h3>My key takeaways from the lectures</h3>
                 <p>I got a better understand of the concept of compilers and algorithms</p>
                 <p>Also I got to understand how visual programming works</p>
